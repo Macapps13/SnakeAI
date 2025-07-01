@@ -88,6 +88,8 @@ class SnakeGameAI:
             reward = -10
             game_over = True
             return reward, game_over, self.score
+
+        
             
         # 4. place new food or just move
         if self.head == self.food:

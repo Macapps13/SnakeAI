@@ -1,3 +1,7 @@
+# Ben Alvaro 29/6/2025
+# To run: install pytorch, pygame, matplotlib & ipython
+# to run on my computer: conda activate pygame_env2 -> python agent.py
+
 import torch
 import random 
 import numpy as np
